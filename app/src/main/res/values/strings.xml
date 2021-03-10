@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TipCalculator-Lawler</string>
+    <string name="tenPercent">10%</string>
+    <string name="fifteenPercent">15%</string>
+    <string name="twentyFivePercent">25%</string>
+    <string name="custom">custom</string>
+    <string name="returnb">return</string>
+    <string name="reset">reset</string>
+    <string name="calculate">Calculate Tip</string>
+    <string name="billamount">bill Amount</string>
+    <string name="pepamount">Amount of People</string>
+    <string name="tiptxt">Tip: $</string>
+    <string name="tottxt">Total: $</string>
+    <string name="totsplttxt">Total split: $</string>
+    <string name="customt">Enter Custom Percentage: </string>
+</resources>
